@@ -1,1 +1,1 @@
-# calculator_app
+# calculator_app Allows the user to choose an operation: add, subtract, multiply, divide, square root, exponentiation then take input of two numbers (only one number for sqrt) then perform the calculation and output the result.
